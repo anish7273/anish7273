@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently mern stack developer.
+- 🔭 I’m mern stack developer.
 - 🌱 I’m currently learning DevOps
 - 💬 Ask me about DSA
 - 📫 https://www.linkedin.com/in/anish-jaiswal-8ab640190/
