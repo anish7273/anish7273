@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m mern stack developer.
+- 🔭 I’m Full stack developer.
 - 🌱 I’m currently learning System Design, DevOps.
 - 💬 Ask me about DSA
 - 📫 https://www.linkedin.com/in/anish-jaiswal-8ab640190/
